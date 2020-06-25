@@ -1,0 +1,10 @@
+C:\Users\todor\source\repos\Laborator 2 BDML\Laborator 2 BDML\obj\Debug\Laborator 2 BDML.csprojAssemblyReference.cache
+C:\Users\todor\source\repos\Laborator 2 BDML\Laborator 2 BDML\obj\Debug\Laborator_2_BDML.Properties.Resources.resources
+C:\Users\todor\source\repos\Laborator 2 BDML\Laborator 2 BDML\obj\Debug\Laborator 2 BDML.csproj.GenerateResource.cache
+C:\Users\todor\source\repos\Laborator 2 BDML\Laborator 2 BDML\obj\Debug\Laborator 2 BDML.csproj.CoreCompileInputs.cache
+C:\Users\todor\source\repos\Laborator 2 BDML\Laborator 2 BDML\bin\Debug\Laborator 2 BDML.exe.config
+C:\Users\todor\source\repos\Laborator 2 BDML\Laborator 2 BDML\bin\Debug\Laborator 2 BDML.exe
+C:\Users\todor\source\repos\Laborator 2 BDML\Laborator 2 BDML\bin\Debug\Laborator 2 BDML.pdb
+C:\Users\todor\source\repos\Laborator 2 BDML\Laborator 2 BDML\obj\Debug\Laborator 2 BDML.exe
+C:\Users\todor\source\repos\Laborator 2 BDML\Laborator 2 BDML\obj\Debug\Laborator 2 BDML.pdb
+C:\Users\todor\source\repos\Laborator 2 BDML\Laborator 2 BDML\obj\Debug\Laborator_2_BDML.Form1.resources
