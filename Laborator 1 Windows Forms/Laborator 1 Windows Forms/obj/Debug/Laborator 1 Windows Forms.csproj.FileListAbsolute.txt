@@ -1,0 +1,10 @@
+C:\Users\todor\source\repos\Laborator 1 Windows Forms\Laborator 1 Windows Forms\obj\Debug\Laborator 1 Windows Forms.csprojAssemblyReference.cache
+C:\Users\todor\source\repos\Laborator 1 Windows Forms\Laborator 1 Windows Forms\obj\Debug\Laborator_1_Windows_Forms.Properties.Resources.resources
+C:\Users\todor\source\repos\Laborator 1 Windows Forms\Laborator 1 Windows Forms\obj\Debug\Laborator 1 Windows Forms.csproj.GenerateResource.cache
+C:\Users\todor\source\repos\Laborator 1 Windows Forms\Laborator 1 Windows Forms\obj\Debug\Laborator 1 Windows Forms.csproj.CoreCompileInputs.cache
+C:\Users\todor\source\repos\Laborator 1 Windows Forms\Laborator 1 Windows Forms\bin\Debug\Laborator 1 Windows Forms.exe.config
+C:\Users\todor\source\repos\Laborator 1 Windows Forms\Laborator 1 Windows Forms\bin\Debug\Laborator 1 Windows Forms.exe
+C:\Users\todor\source\repos\Laborator 1 Windows Forms\Laborator 1 Windows Forms\bin\Debug\Laborator 1 Windows Forms.pdb
+C:\Users\todor\source\repos\Laborator 1 Windows Forms\Laborator 1 Windows Forms\obj\Debug\Laborator_1_Windows_Forms.Form1.resources
+C:\Users\todor\source\repos\Laborator 1 Windows Forms\Laborator 1 Windows Forms\obj\Debug\Laborator 1 Windows Forms.exe
+C:\Users\todor\source\repos\Laborator 1 Windows Forms\Laborator 1 Windows Forms\obj\Debug\Laborator 1 Windows Forms.pdb
