@@ -18,6 +18,7 @@ namespace Laborator_1_BDML
             dataSetList = new List<double[]>();
             centroidList = new List<double[]>();
             clustering = new List<int>();
+            boundingBorders = new List<Point>();
             colors = new Color[] { Color.Red, Color.Blue, Color.Green, Color.Gray, Color.Yellow, Color.Black, Color.Indigo, Color.Crimson, Color.Chocolate, Color.DarkSalmon };
             InitializeComponent();
         }
@@ -25,6 +26,7 @@ namespace Laborator_1_BDML
         private List<double[]> dataSetList;
         private List<double[]> centroidList;
         private List<int> clustering;
+        private List<Point> boundingBorders;
         private Color[] colors;
 
         private void button1_Click(object sender, EventArgs e)
@@ -68,6 +70,13 @@ namespace Laborator_1_BDML
                     g.DrawLine(new Pen(colors[clustering[i]], 1.0f), (float)dataSetList.ElementAt(i)[0], (float)dataSetList.ElementAt(i)[1], (float)centroidList.ElementAt(clustering[i])[0], (float)centroidList.ElementAt(clustering[i])[1]);
                 }
             }
+            if (boundingBorders.Count > 0)
+            {
+                for (int i = 0; i < boundingBorders.Count; i+=2)
+                {
+                    g.DrawRectangle(new Pen(colors[clustering[i/2]]), new Rectangle(boundingBorders[i], new Size(boundingBorders[i + 1].X - boundingBorders[i].X, boundingBorders[i + 1].Y - boundingBorders[i].Y)));
+                }
+            }
         }
 
 
@@ -104,6 +113,16 @@ namespace Laborator_1_BDML
                     var list = dataSetList.Where(d => clustering[dataSetList.IndexOf(d)] == i);
                     centroidList.ElementAt(i)[0] = list.Average(d => d[0]);
                     centroidList.ElementAt(i)[1] = list.Average(d => d[1]);
+                }
+            }
+            else if (e.KeyChar == 8)
+            {
+                boundingBorders = new List<Point>();
+                for (int i = 0; i < centroidList.Count; i++)
+                {
+                    var list = dataSetList.Where(d => clustering[dataSetList.IndexOf(d)] == i);
+                    boundingBorders.Add(new Point(Convert.ToInt32(list.Min(d => d[0])), Convert.ToInt32(list.Min(d => d[1]))));
+                    boundingBorders.Add(new Point(Convert.ToInt32(list.Max(d => d[0])), Convert.ToInt32(list.Max(d => d[1]))));
                 }
             }
 
