@@ -1,0 +1,13 @@
+C:\Users\todor\source\repos\Laborator 3 BDML\Laborator 3 BDML\bin\Debug\netcoreapp3.1\Laborator 3 BDML.exe
+C:\Users\todor\source\repos\Laborator 3 BDML\Laborator 3 BDML\bin\Debug\netcoreapp3.1\Laborator 3 BDML.deps.json
+C:\Users\todor\source\repos\Laborator 3 BDML\Laborator 3 BDML\bin\Debug\netcoreapp3.1\Laborator 3 BDML.runtimeconfig.json
+C:\Users\todor\source\repos\Laborator 3 BDML\Laborator 3 BDML\bin\Debug\netcoreapp3.1\Laborator 3 BDML.runtimeconfig.dev.json
+C:\Users\todor\source\repos\Laborator 3 BDML\Laborator 3 BDML\bin\Debug\netcoreapp3.1\Laborator 3 BDML.dll
+C:\Users\todor\source\repos\Laborator 3 BDML\Laborator 3 BDML\bin\Debug\netcoreapp3.1\Laborator 3 BDML.pdb
+C:\Users\todor\source\repos\Laborator 3 BDML\Laborator 3 BDML\obj\Debug\netcoreapp3.1\Laborator 3 BDML.csprojAssemblyReference.cache
+C:\Users\todor\source\repos\Laborator 3 BDML\Laborator 3 BDML\obj\Debug\netcoreapp3.1\Laborator 3 BDML.AssemblyInfoInputs.cache
+C:\Users\todor\source\repos\Laborator 3 BDML\Laborator 3 BDML\obj\Debug\netcoreapp3.1\Laborator 3 BDML.AssemblyInfo.cs
+C:\Users\todor\source\repos\Laborator 3 BDML\Laborator 3 BDML\obj\Debug\netcoreapp3.1\Laborator 3 BDML.csproj.CoreCompileInputs.cache
+C:\Users\todor\source\repos\Laborator 3 BDML\Laborator 3 BDML\obj\Debug\netcoreapp3.1\Laborator 3 BDML.dll
+C:\Users\todor\source\repos\Laborator 3 BDML\Laborator 3 BDML\obj\Debug\netcoreapp3.1\Laborator 3 BDML.pdb
+C:\Users\todor\source\repos\Laborator 3 BDML\Laborator 3 BDML\obj\Debug\netcoreapp3.1\Laborator 3 BDML.genruntimeconfig.cache
